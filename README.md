@@ -1,6 +1,6 @@
 # WAMI (Where Am I) BOT 
 
-[bot](https://i.ibb.co/7STtvmQ/WAMI.png)
+![bot](https://i.ibb.co/7STtvmQ/WAMI.png)
 
 ### _ChatBot para Whatsapp que permite usuários validarem localização digitando o CEP_
 
