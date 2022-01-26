@@ -1,0 +1,11 @@
+node_modules/
+tokens/
+dist/
+session.data.json
+*.node-persist
+*.env
+*.png
+*.jpg
+.github
+
+
