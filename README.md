@@ -21,4 +21,10 @@ Para gerenciar os estados do chat (menus) utilizo o state pattern e para o envio
 - [TypeScript] - Typed JavaScript at Any Scale
 - [Venom-bot](https://www.npmjs.com/package/venom-bot) - High-performance alternative API to whatzapp
 
+## Demo
+
+[![Watch the video](https://i.ibb.co/vYxn0Sw/image.png)](https://www.youtube.com/watch?v=FWpWV0jm9ew)
+
+
+
  
