@@ -32,6 +32,8 @@ yarn install
 ```
 > Obs: pode haver falha em alguma lib opcional do projeto, ignore-a e prossiga.
 
+Na pasta assets você precisará fornecer uma imagem chamada `principalCard.jpg` (pode ser outra extensão, mas precisará alterar no template (src/Templates/PrincipalMenu.ts)
+
 Crie um .env como no exemplo
 
 ```console
