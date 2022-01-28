@@ -21,6 +21,26 @@ Para gerenciar os estados do chat (menus) utilizo o state pattern e para o envio
 - [TypeScript] - Typed JavaScript at Any Scale
 - [Venom-bot](https://www.npmjs.com/package/venom-bot) - High-performance alternative API to whatzapp
 
+## Setup 
+- Node >= v16.13.2
+- Considere a utilização do yarn
+- Navegador Chrome/Chromium instalado
+
+### Rodando o projeto
+```console
+yarn install
+```
+> Obs: pode haver falha em alguma lib opcional do projeto, ignore-a e prossiga.
+
+Crie um .env como no exemplo
+
+```console
+yarn dev
+```
+
+## ToDo
+[ ] Implementação de testes
+
 ## Demo
 
 [![Watch the video](https://i.ibb.co/vYxn0Sw/image.png)](https://www.youtube.com/watch?v=FWpWV0jm9ew)
