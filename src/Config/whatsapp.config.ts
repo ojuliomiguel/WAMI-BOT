@@ -5,7 +5,7 @@ import { exportQrCode } from '../Helpers/helpers.exportQrCode';
 
 
 const whatsClientConfig: CreateOptions = {
-    session: 'aws',
+    session: 'WAMI',
     catchQR: exportQrCode,
     folderNameToken: 'tokens', //folder name when saving tokens
     mkdirFolderToken: '', //folder directory tokens, just inside the venom folder, example:  { mkdirFolderToken: '/node_modules', } //will save the tokens folder in the node_modules directory
@@ -18,7 +18,7 @@ const whatsClientConfig: CreateOptions = {
     disableSpins: true, // Will disable Spinnies animation, useful for containers (docker) for a better log
     updatesLog: true, // Logs info updates automatically in terminal
     autoClose: 120000, 
-    statusFind: (status: string, session: string) => console.log(`Session Stauts ${status}`)
+    
     
 };
 
