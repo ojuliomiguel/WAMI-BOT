@@ -4,7 +4,7 @@ import { dotenv } from '../Config/dotenv.config'
 dotenv;
 
 export const qrCodeEmail = {
-    from: `"QR Code Aws Bot" < ${process.env.EMAIL_SENDER} >`,
+    from: `"QR Code WAMI Bot" < ${process.env.EMAIL_SENDER} >`,
     to: `${process.env.RECIPIENT_EMAIL}`,
     subject: "Bot QR Code",
     text: "Por favor scanear o QrCode para utilizar o bot",

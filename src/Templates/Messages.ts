@@ -5,7 +5,7 @@ export const messages = {
 
     thanks: {
         textContent: `Esperamos ter te ajudado. 😊 \n\n` +
-            'Ah, não deixe de acompanhar me acompanhar em: https://github.com/ojuliomiguel'
+            'Ah, não deixe de me acompanhar em: https://github.com/ojuliomiguel'
     },
 
     notFound: {
